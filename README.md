@@ -37,21 +37,3 @@ This is a React application that displays a list of beers in card format. Each c
 
 2. Open your browser and go to `http://localhost:3000` to see the app in action.
 
-## Project Structure
-
-
-├── public/
-├── src/
-│   ├── components/
-│   │   ├── Card.js
-│   │   ├── Search.js
-│   ├── data/
-│   │   ├── data.js
-│   ├── styles/
-│   │   ├── App.css
-│   │   ├── Card.css
-│   ├── App.js
-│   ├── index.js
-├── README.md
-├── package.json
-
