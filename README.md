@@ -39,17 +39,19 @@ This is a React application that displays a list of beers in card format. Each c
 
 ## Project Structure
 
+
 ├── public/
 ├── src/
-│ ├── components/
-│ │ ├── Card.js
-│ │ ├── Search.js
-│ ├── data/
-│ │ ├── data.js
-│ ├── styles/
-│ │ ├── App.css
-│ │ ├── Card.css
-│ ├── App.js
-│ ├── index.js
+│   ├── components/
+│   │   ├── Card.js
+│   │   ├── Search.js
+│   ├── data/
+│   │   ├── data.js
+│   ├── styles/
+│   │   ├── App.css
+│   │   ├── Card.css
+│   ├── App.js
+│   ├── index.js
 ├── README.md
 ├── package.json
+
