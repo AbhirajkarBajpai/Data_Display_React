@@ -37,3 +37,8 @@ This is a React application that displays a list of beers in card format. Each c
 
 2. Open your browser and go to `http://localhost:3000` to see the app in action.
 
+## Snapshots
+![Snapshot 1](img/Screenshot%20(2199).png)
+![Snapshot 2](img/Screenshot%20(2200).png)
+![Snapshot 3](img/Screenshot%20(2201).png)
+
